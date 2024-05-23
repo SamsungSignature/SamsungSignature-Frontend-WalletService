@@ -1,0 +1,25 @@
+{
+  "message": "wallet 카드(신용카드+signature) 목록 조회 성공",
+  "body": {
+    "cards": [
+      {
+        "card_id": 19,
+        "card_name": "농협카드",
+        "card_company": "NONE",
+        "card_img": "bcwooricheck"
+      },
+      {
+        "card_id": 21,
+        "card_name": "신한미서카드",
+        "card_company": "신한",
+        "card_img": "bcwooricredit"
+      },
+      {
+        "card_id": 22,
+        "card_name": "비씨미서카드",
+        "card_company": "비씨",
+        "card_img": "defaultcard"
+      }
+    ]
+  }
+}
